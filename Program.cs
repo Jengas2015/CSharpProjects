@@ -18,7 +18,9 @@ secondNum = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Okay! Your second number is {secondNum}");
 Console.WriteLine("What would you like to do with these two numbers? You can use commands like 'add', 'subtract', 'divide', or 'multiply'.");
 
+#pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
 command = Console.ReadLine();
+#pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
 
 if (command == "add") {
     Console.WriteLine($"The sum of your two numbers is {firstNum + secondNum}");
