@@ -1,0 +1,15 @@
+C:\Users\areja\Documents\GitHub\CSharpProjects\bin\Debug\net6.0\CSharpProjects.exe
+C:\Users\areja\Documents\GitHub\CSharpProjects\bin\Debug\net6.0\CSharpProjects.deps.json
+C:\Users\areja\Documents\GitHub\CSharpProjects\bin\Debug\net6.0\CSharpProjects.runtimeconfig.json
+C:\Users\areja\Documents\GitHub\CSharpProjects\bin\Debug\net6.0\CSharpProjects.dll
+C:\Users\areja\Documents\GitHub\CSharpProjects\bin\Debug\net6.0\CSharpProjects.pdb
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.AssemblyInfoInputs.cache
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.AssemblyInfo.cs
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.csproj.CoreCompileInputs.cache
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.dll
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\refint\CSharpProjects.dll
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.pdb
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.genruntimeconfig.cache
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\ref\CSharpProjects.dll
+C:\Users\areja\Documents\GitHub\CSharpProjects\obj\Debug\net6.0\CSharpProjects.sourcelink.json

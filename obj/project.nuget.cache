@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bwTms5N57MLT62Nd0ucNxtw17vSucpV4dF3iXJhHaetvip1e4hMhs02zv2Xw2U9/SX6SRikCxpZbaTda6hU/8A==",
+  "dgSpecHash": "+dRZvDVLh9yuF8t7rbZhx9UIne5RioT84IEtivu190+N7PCdH3hYi0nxO2zinbzzona6+cZydqFUiyIezmgYLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\areja\\Documents\\GitHub\\CSharpProjects\\CSharpProjects.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\areja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\areja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\areja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\areja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
